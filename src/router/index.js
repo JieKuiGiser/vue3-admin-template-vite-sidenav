@@ -183,7 +183,7 @@ export const asyncRoutes = [
     component: () => import("@/views/404/index.vue"),
     children: [
       {
-        path: "https://github.com/Maxfengyan/vue3-admin-template-vite",
+        path: "https://github.com/JieKuiGiser/vue3-admin-template-vite-sidenav",
         meta: {
           title: "外链",
           icon: "link",
